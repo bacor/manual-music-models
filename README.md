@@ -1,3 +1,4 @@
 # Manual music
 
-Models# manual-music-models
+Models for [Manual Music](manual-music.deno.dev)
+

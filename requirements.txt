@@ -1,0 +1,13 @@
+jupyter
+jupyterlab
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+umap-learn
+
+# These versions are important: 
+#tf 2.17 exports models that won't import in tensorflowjs...
+tensorflow==2.15.0
+tensorflowjs==4.21.0
